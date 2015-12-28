@@ -1,0 +1,10 @@
+{
+  "name": "br4_to_mp3",
+  "version": "1.0.0",
+  "private": false,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+  }
+}
