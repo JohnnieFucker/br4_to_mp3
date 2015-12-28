@@ -1,6 +1,6 @@
 # br4_to_mp3
 
-change br4 files to mp3 for my BMW X3
+convert br4 files to mp3 for my BMW X3
 
 U盘上的mp3导入宝马车载电脑后再导出的时候被编码成了br4文件，很讨厌。这个脚本可以将br4文件批量恢复成mp3文件。
 
